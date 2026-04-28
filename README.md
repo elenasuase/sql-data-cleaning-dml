@@ -19,7 +19,7 @@ Presentación teórica creada en Canva:
 - Uso de `DELETE`
 - Buenas prácticas
 
-📎 Archivo: `sql_limpieza_dml_.pdf`
+📎 Archivo: `sql_limpieza_dml_presentacion.pdf`
 
 ---
 
