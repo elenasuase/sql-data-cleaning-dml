@@ -26,5 +26,5 @@ Presentación teórica creada en Canva:
 ### 🧠 Test interactivo
 Test creado en Genially para reforzar conocimientos:
 
-[Acceder al test interactivo en Genially](https://view.genially.com/69e60048f96918488d71a1b9)
+🔗 [Acceder al test interactivo en Genially](https://view.genially.com/69e60048f96918488d71a1b9)
 
